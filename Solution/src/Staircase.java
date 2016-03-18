@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class CurrentBuffer {
+public class Staircase {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
